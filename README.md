@@ -11,13 +11,35 @@
 
  > I tinker with all things technology to gain better understanding and to encourage others to expand their knowledge.
 
- > Will soon begin sharing my learning & career journey so watch this space 😄
+ > Will soon begin sharing content in the form of learning and conversation so watch the space below 😄
 
 ---
 
  > 🧰 Toolbox
 
- > <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu Logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3 Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry-Pi Logo" width="50" height="50" />
+ > <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu Logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3 Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspber)ry-Pi Logo" width="50" height="50" />
+ > 
+---
+
+📺 Latest Youtube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶️ [.....more Youtube videos](https://www.youtube.com/channel/UCjJLKNa2Su54Kpl9Us1Fl3A)
+
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+▶️ [.....more blog articles]
+
+---
 
 
 - 🔭 I’m currently working on a Linux Multipurpose Home Server
