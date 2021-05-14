@@ -37,7 +37,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-▶️ [.....more blog articles]
+▶️ [.....more blog articles](https://hashnode.com/@Boro1Andrew)
 
 ---
 
