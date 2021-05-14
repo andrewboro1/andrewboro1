@@ -27,7 +27,7 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-▶️ [.....more Youtube videos](https://www.youtube.com/feeds/videos.xml?channel_id=UCjJLKNa2Su54Kpl9Us1Fl3A)
+▶️ [.....more Youtube videos](https://www.youtube.com/channel/UCjJLKNa2Su54Kpl9Us1Fl3A)
 
 ---
 
@@ -45,10 +45,10 @@
 - 🔭 I’m currently working on a Linux Multipurpose Home Server
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on Study Groups/Blogs/Podcasts/Interviews
-- 🤔 I’m looking for help with DIY Tech Projects using Raspberry-Pi
+- 🤔 I’m looking for help with DIY Projects using Raspberry-Pi
 - 💬 Ask me about Taking the first step into Tech!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-boro-2b9058208/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Former Head Chef
+- ⚡ Fun fact: Serious foodie!
 
  
