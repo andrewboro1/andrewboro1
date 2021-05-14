@@ -7,15 +7,15 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Boro1Andrew?label=Twitter%20Followers&style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjJLKNa2Su54Kpl9Us1Fl3A?label=Total%20Views&style=social)
 
- > **An AWS re/Start Trainee** currently studying for my AWS Certified Cloud Practitioner, Solutions Architect Associate & SysOps Administrator certifications as the first step towards my career change from a Logistics background.
+ > **An AWS re/Start Trainee** currently studying for my AWS Certified Cloud Practitioner, Solutions Architect Associate & SysOps Administrator certifications as the first     step towards my career change from a Logistics background.
 
  > I enjoy tinkering with all things technology to gain better understanding and to **encourage others to expand their knowledge.**
 
- > Will soon begin sharing content in the form of learning and conversations so **watch the space below** 😄
+ > Will soon begin sharing content in the form of walkthroughs and open discussions so **watch the space below** 😄
 
 ---
 
- > 🧰 Toolbox
+ > 🧰 Tech Stack
 
  > <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="Ubuntu Logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3 Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspber)ry-Pi Logo" width="50" height="50" />
  > 
