@@ -1,8 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Andrew Boro!
-
----
-
-
  > **An AWS re/Start Graduate** currently studying for my CompTIA Security+ certification as the second step towards my career change from a Telecommunications & Supply Chain background.
 ---
 
