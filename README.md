@@ -1,5 +1,4 @@
- > **An AWS re/Start Graduate** currently studying for my CompTIA Security+ certification as the second step towards my career change from a Telecommunications & Supply Chain background.
----
+ > **A CAPSLOCK Cyber Security Student (Ce-CSP)** Changing careers from a supply chain and telecoms background. 
 
 
 ---
