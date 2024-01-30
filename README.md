@@ -4,11 +4,11 @@
 ---
 
 
-- 🔭 I’m currently working on a multi device home network hosted in the cloud
-- 🌱 I’m currently learning Cybersecurity fundamentals through various online programs such as TryHackMe
+- 🔭 I’m currently working on a multi device home network hosted in the cloud using Cisco Packet Tracer
+- 🌱 I’m currently learning Cyber Security fundamentals through various online programs such as TryHackMe
 - 👯 I’m looking to collaborate on Study Groups/Blogs/Podcasts
-- 🤔 I’m looking for help with DIY Projects using Raspberry-Pi
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-boro-2b9058208/)
+- 🤔 I’m looking for help with DIY Projects using Raspberry-Pi/Arduino
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrewboro)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Serious foodie!
 
